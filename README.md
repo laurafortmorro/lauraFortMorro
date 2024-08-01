@@ -4,13 +4,13 @@
 
 💼 **Desarrolladora de Software**
 - Experiencia en desarrollo de aplicaciones móviles con Flutter/Dart.
-- Experiencia en integración de API REST y uso de Firebase/Firestore.
+- Experiencia en creaciñon e integración de API REST y uso de Firebase/Firestore.
 - Familiarizada con metodologías ágiles como Scrum y Kanban.
 - Conocimientos en Java, Python y SQL.
 
 🔧 **Tecnologías y Herramientas**
 - **Lenguajes:** Java, Python, Dart
-- **Frameworks y Bibliotecas:** Flutter
+- **Frameworks y Bibliotecas:** Flutter, Bootstrap
 - **Plataformas:** Firebase, Kubernetes, Docker
 - **Metodologías:** Agile, Scrum, Kanban
 - **Herramientas:** Git, GitLab, Figma
