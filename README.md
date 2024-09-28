@@ -9,13 +9,14 @@
 - Conocimientos en Java, Python y SQL.
 
 🔧 **Tecnologías y Herramientas**
-- **Lenguajes:** Java, Python, Dart
-- **Frameworks y Bibliotecas:** Flutter, Bootstrap
+- **Lenguajes:** Java, Python, JavaScript, Dart
+- **Frameworks y Bibliotecas:** Flutter, ReactJS, Bootstrap
 - **Plataformas:** Firebase, Kubernetes, Docker
 - **Metodologías:** Agile, Scrum, Kanban
 - **Herramientas:** Git, GitLab, Figma
 
 📚 **Formación**
+- FrontEnd Developer - IT Academy
 - G. S. en Desarrollo de Aplicaciones Multiplataforma - Cesur Formación
 - Máster en Protocolo, RI y Gestión de Eventos - Blanquerna
 - Grado en Publicidad y RP - Universidad Rovira i Virgili
